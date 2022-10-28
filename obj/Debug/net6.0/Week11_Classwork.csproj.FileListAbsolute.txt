@@ -1,0 +1,15 @@
+C:\Users\MDT\Desktop\Week11_Classwork\bin\Debug\net6.0\Week11_Classwork.exe
+C:\Users\MDT\Desktop\Week11_Classwork\bin\Debug\net6.0\Week11_Classwork.deps.json
+C:\Users\MDT\Desktop\Week11_Classwork\bin\Debug\net6.0\Week11_Classwork.runtimeconfig.json
+C:\Users\MDT\Desktop\Week11_Classwork\bin\Debug\net6.0\Week11_Classwork.dll
+C:\Users\MDT\Desktop\Week11_Classwork\bin\Debug\net6.0\Week11_Classwork.pdb
+C:\Users\MDT\Desktop\Week11_Classwork\obj\Debug\net6.0\Week11_Classwork.csproj.AssemblyReference.cache
+C:\Users\MDT\Desktop\Week11_Classwork\obj\Debug\net6.0\Week11_Classwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MDT\Desktop\Week11_Classwork\obj\Debug\net6.0\Week11_Classwork.AssemblyInfoInputs.cache
+C:\Users\MDT\Desktop\Week11_Classwork\obj\Debug\net6.0\Week11_Classwork.AssemblyInfo.cs
+C:\Users\MDT\Desktop\Week11_Classwork\obj\Debug\net6.0\Week11_Classwork.csproj.CoreCompileInputs.cache
+C:\Users\MDT\Desktop\Week11_Classwork\obj\Debug\net6.0\Week11_Classwork.dll
+C:\Users\MDT\Desktop\Week11_Classwork\obj\Debug\net6.0\refint\Week11_Classwork.dll
+C:\Users\MDT\Desktop\Week11_Classwork\obj\Debug\net6.0\Week11_Classwork.pdb
+C:\Users\MDT\Desktop\Week11_Classwork\obj\Debug\net6.0\Week11_Classwork.genruntimeconfig.cache
+C:\Users\MDT\Desktop\Week11_Classwork\obj\Debug\net6.0\ref\Week11_Classwork.dll
